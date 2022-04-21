@@ -1,0 +1,27 @@
+.btn-outline-success {
+  color: #222;
+  border-color: #222;
+}
+.btn-outline-success:hover {
+  background-color: #222;
+  color: white;
+  border-color: #222;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+.first-line {
+  border-bottom: 1px solid #392d23;
+}
+.second-line a {
+  color: white;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 45rem) {
+  .first-line {
+    text-align: center;
+  }
+}
